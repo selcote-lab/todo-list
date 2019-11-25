@@ -1,2 +1,3 @@
-com\tonasolution\config\WebAppInitializer.class
 com\tonasolution\config\WebConfig.class
+com\tonasolution\config\WebAppInitializer.class
+com\tonasolution\controller\Demo.class
