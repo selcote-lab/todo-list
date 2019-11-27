@@ -1,5 +1,12 @@
-com\tonasolution\config\WebConfig.class
 com\tonasolution\controller\DemoController.class
-com\tonasolution\service\DemoServiceImpl.class
+com\tonasolution\service\TodoItemService.class
 com\tonasolution\config\WebAppInitializer.class
+com\tonasolution\controller\TodoItemController.class
 com\tonasolution\service\DemoService.class
+com\tonasolution\util\ViewNames.class
+com\tonasolution\service\DemoServiceImpl.class
+com\tonasolution\service\TodoItemServiceImpl.class
+com\tonasolution\model\TodoData.class
+com\tonasolution\config\WebConfig.class
+com\tonasolution\util\Mappings.class
+com\tonasolution\model\TodoItem.class

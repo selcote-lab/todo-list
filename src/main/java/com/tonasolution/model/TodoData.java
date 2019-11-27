@@ -18,6 +18,7 @@ public class TodoData {
         items.add(new TodoItem("Learn java", "Learn java master class", LocalDate.now()));
         items.add(new TodoItem("Learn c++", "Learn c++ master class", LocalDate.now()));
         items.add(new TodoItem("Learn php", "Learn php master class", LocalDate.now()));
+        items.add(new TodoItem("Learn AI", "Learn AI master class", LocalDate.now()));
     }
 
     // == public methods ==
