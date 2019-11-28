@@ -8,5 +8,6 @@ com\tonasolution\service\DemoServiceImpl.class
 com\tonasolution\service\TodoItemServiceImpl.class
 com\tonasolution\model\TodoData.class
 com\tonasolution\config\WebConfig.class
+com\tonasolution\util\AttributeNames.class
 com\tonasolution\util\Mappings.class
 com\tonasolution\model\TodoItem.class
